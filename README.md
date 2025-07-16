@@ -6,5 +6,5 @@ This repository contains a set of commonly used DevOps tasks.
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/devops-tasks.git
+git clone https://github.com/RAVITEJA12344/devops-tasks.git
 cd devops-tasks
